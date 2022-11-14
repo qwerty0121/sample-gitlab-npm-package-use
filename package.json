@@ -1,0 +1,10 @@
+{
+  "name": "sample-gitlab-npm-package-use",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "@scope/gitlab-npm-package": "^1.0.0"
+  }
+}
